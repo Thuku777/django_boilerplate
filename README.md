@@ -6,7 +6,7 @@ HOW TO INSTALL THE APPLICATION
   "git clone https://github.com/Thuku777/django_boilerplate"
   "pip freeze requirements.txt"
   "pip install -r requirements.txt"
-  "python manage.py makemigrations"
+  "python manage.py makemigrations" 
   "python manage.py migrate"
   "python manage.py runserver"
   
